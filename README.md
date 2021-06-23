@@ -12,7 +12,7 @@ and Social Media Marketing to businesses.
 https://github.com/SadiaSookram/challenge1refactor.git
 
 
-![Preview](assets/images/screenshot.png)
+![Preview](./assets/images/screenshot.png)
 
 ## Contribution 
 Made by Sadia Sookram
