@@ -11,7 +11,8 @@ and Social Media Marketing to businesses.
 ## Websites
 [](https://github.com/SadiaSookram/challenge1refactor.git)
 
-![Screenshot](.develop/assets/images/screenshot.png)
+ ## 
+![Screenshot](./develop/assets/images/screenshot.png)
 
 ## Contribution 
 Made by Sadia Sookram
