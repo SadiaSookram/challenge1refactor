@@ -1,4 +1,4 @@
-# challenge1refactor
+# Horiseon 
 
 ## Purpose
 A Website that offers Seach Engine optimization , Online Reputation Management 
@@ -14,7 +14,7 @@ and Social Media Marketing to businesses through Lead Generation , Brand Awarene
 
 ## Preview
 
-[Preview](./assets/images/preview.png)
+![Preview](assets/images/preview.png)
 
 ## Contribution 
 Made by Sadia Sookram 💙
