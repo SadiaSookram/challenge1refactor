@@ -95,7 +95,6 @@ p {
     max-width: 150px;
 }
 
-
 /* End benefits Banner*/
 
 /* content */
@@ -114,6 +113,10 @@ p {
     display: inline-block;
     margin-left: 20px;
     
+}
+
+.content p {
+    font-size: 18px;
 }
 
 .social-media-marketing,.search-engine-optimization,.online-reputation-management
