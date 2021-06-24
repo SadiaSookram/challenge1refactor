@@ -2,7 +2,7 @@
 
 ## Purpose
 A Website that offers Seach Engine optimization , Online Reputation Management 
-and Social Media Marketing to businesses.
+and Social Media Marketing to businesses. 
 
 ## Built with
 *HTML
@@ -15,5 +15,5 @@ and Social Media Marketing to businesses.
 ![Screenshot](assets/images/preview.png)
 
 ## Contribution 
-Made by Sadia Sookram
+Made by Sadia Sookram!
 
