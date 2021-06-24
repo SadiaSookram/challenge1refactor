@@ -10,11 +10,11 @@ and Social Media Marketing to businesses through Lead Generation , Brand Awarene
 
 ## Websites
 
-![website link](https://sadiasookram.github.io/challenge1refactor/)
+[website link](https://sadiasookram.github.io/challenge1refactor/)
 
 ## Preview
 
-![Preview](assets/images/preview.png)
+![Preview](./assets/images/preview.png)
 
 ## Contribution 
 Made by Sadia Sookram 💙
