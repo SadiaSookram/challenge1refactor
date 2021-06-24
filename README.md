@@ -9,7 +9,7 @@ and Social Media Marketing to businesses.
 *CSS
 
 ## Websites
-[](https://github.com/SadiaSookram/challenge1refactor.git)
+[](https://sadiasookram.github.io/challenge1refactor/)
 
  ## Screenshot 
 ![Screenshot](assets/images/preview.png)
