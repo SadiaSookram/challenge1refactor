@@ -14,7 +14,7 @@ and Social Media Marketing to businesses through Lead Generation , Brand Awarene
 
 ## Preview
 
-![Preview](./assets/images/preview.png)
+![Preview](./assets/images/preview.PNG)
 
 ## Contribution 
 Made by Sadia Sookram 💙
